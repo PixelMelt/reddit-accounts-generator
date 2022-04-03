@@ -11,7 +11,10 @@ Needs Selenium (pip install Selenium) and geckodriver (firefox)
 
 ```touch redditNameList.txt && touch createdNames.txt```
 
+```chmod +x setupWebdriver.sh```
 
+```./setupWebdriver.sh```
 
+```python3 creator.py```
 
 # Note: only tested and fixed creator.py for now
