@@ -2,15 +2,14 @@
 # An extremely simple python program that generates reddit accounts
 
 Needs Selenium (pip install Selenium) and geckodriver (firefox)
-TODO:
 
-1.Proxy or tor implementation
+# How to install
 
-2.maybe make it faster?
+```git clone https://github.com/PixelMelt/reddit-accounts-generator```
 
-3.putting the information of the account that was made into a text file Cancel changes (done)
+```cd reddit-accounts-generator/```
 
-4.(LAST ON MY LIST BECAUSE FUCK IT) auto captcha solver
+```touch redditNameList.txt && touch createdNames.txt```
 
 
 
