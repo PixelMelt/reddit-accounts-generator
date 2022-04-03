@@ -1,5 +1,8 @@
 
-# An extremely simple python program that generates reddit accounts
+# An simple python program that assists in creating reddit accounts
+
+# Use generated accounts with https://github.com/r-PlaceTux/placetux-bot
+# Accounts with verified emails have a lower chance of being banned
 
 Needs Selenium (pip install Selenium) and geckodriver (firefox)
 
