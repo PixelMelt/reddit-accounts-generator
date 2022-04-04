@@ -14,10 +14,15 @@ Needs Selenium (pip install Selenium) and geckodriver (firefox)
 
 ```touch redditNameList.txt && touch createdNames.txt```
 
+Then add the username:password of the accounts you want to create to redditNameList.txt
+
 ```chmod +x setupWebdriver.sh```
 
 ```./setupWebdriver.sh```
 
 ```python3 creator.py```
 
-# Note: only tested and fixed creator.py for now
+Follow instructions and your created accounts will be in createdNames.txt
+
+# Example of me using it
+[Link to video example](https://cdn.upload.systems/uploads/ylK5kjlO.mp4)
