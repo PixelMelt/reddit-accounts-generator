@@ -24,5 +24,5 @@ Then add the username:password of the accounts you want to create to redditNameL
 
 Follow instructions and your created accounts will be in createdNames.txt
 
-# Example of me using it
+# Example of usage
 [Link to video example](https://cdn.upload.systems/uploads/ylK5kjlO.mp4)
